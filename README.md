@@ -1,4 +1,4 @@
-## Hallo tamang-tamang, beta RioReinerLamerburu mahasiswa ITB STIKOM AMBON program studi SISTEM INFORMASI 👋
+## Hallo semua, Saya Rio Reiner Lamerburu ..  👋
 
 <p>
   🔭 Full-stack Explorer & Tech Enthusiast 🚀 <br>
