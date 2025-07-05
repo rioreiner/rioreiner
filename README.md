@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**rioreiner/rioreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔭 Full-stack Explorer & Tech Enthusiast 🚀 <br>
+  🌱 Passionate about continuous learning <br>
+  💬 Let's talk code, coffee, and creativity ☕
+</p>
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rioreiner&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioreiner&layout=compact&theme=tokyonight)
+
+
