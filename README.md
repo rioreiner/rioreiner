@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hallo tamang-tamang, beta RioReinerLamerburu mahasiswa ITB STIKOM AMBON program studi SISTEM INFORMASI 👋
 
-<p align="center">
+<p>
   🔭 Full-stack Explorer & Tech Enthusiast 🚀 <br>
   🌱 Passionate about continuous learning <br>
   💬 Let's talk code, coffee, and creativity ☕
