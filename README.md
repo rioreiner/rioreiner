@@ -1,7 +1,7 @@
 ## Hallo semua, Saya Rio Reiner Lamerburu ..  👋
 
 <p>
-  ayo ikuti saya haha
+  follow dan kasih star-nya
 </p>
 
 ### 📊 My Stats
